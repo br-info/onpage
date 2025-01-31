@@ -16,7 +16,7 @@
 body {
 	background-color: #fff;
 	font-family: 'OpenSans';
-	margin: auto;
+	margin: 10;
 	
 }
 img {
@@ -77,7 +77,7 @@ img {
 	display: inline-block;
 	list-style: none;
 	line-height: 100px;
-	margin: 0;
+	margin: auto;
 	padding: 0;
 }
 #navigation ul {
